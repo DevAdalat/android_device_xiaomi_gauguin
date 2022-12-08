@@ -6,7 +6,7 @@ git clone --depth=1 https://github.com/iitzrohan/vendor_xiaomi_gauguin.git vendo
 
 echo 'Cloning Kernel tree [2/3]'
 # Kernel Tree
-git clone --depth=1 https://github.com/iitzrohan/android_kernel_xiaomi_gauguin.git kernel/xiaomi/gauguin
+git clone --depth=1 https://github.com/PixelOS-Devices/kernel_xiaomi_gauguin.git kernel/xiaomi/gauguin
 
 echo 'Cloning proton clang [3/3]'
 # proton Clang
