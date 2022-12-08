@@ -28,6 +28,5 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Some Extra Stuffs.
-EVO_SUPPORT_URL := https://t.me/EvolutionXGauguinpro
-BUILD_USERNAME := Rohan
+BUILD_USERNAME := Adalat
 BUILD_HOSTNAME := Evolution-X
